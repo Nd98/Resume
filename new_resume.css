@@ -1,6 +1,12 @@
 body{
     background-color: #f2f2f2;
 }
+
+.skill-name, .language-name{
+  display:list-item;
+  margin-bottom: 2px;
+}
+
 .list-content{
     margin: 5px 0px;
     font-size: 15px;

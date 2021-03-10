@@ -11,12 +11,14 @@ body{
     margin: 5px 0px;
     font-size: 13.7px;
     line-height: 1.24;
+    list-style-type: disc;
 }
 
 .list-header{
     font-weight: bolder;
     color: #164c90;
     font-size: 17px;
+    list-style-type: none;
 }
 
 .name-header{
@@ -97,4 +99,7 @@ body{
   display: block;
   position: relative;
   z-index: 100;
+}
+.list-heading {
+  list-style-type: none;
 }
